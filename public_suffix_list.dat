@@ -13458,6 +13458,15 @@ api.gov.uk
 gehirn.ne.jp
 usercontent.jp
 
+// Genesis Cloud GmbH : https://www.genesiscloud.com/
+// Submitted by Simon Kirsten <domains@genesiscloud.com>
+instance.arc-is-haf-1.genesiscloudusercontent.com
+s3.arc-is-haf-1.genesiscloudusercontent.com
+instance.euc-de-muc-1.genesiscloudusercontent.com
+s3.euc-de-muc-1.genesiscloudusercontent.com
+instance.nord-no-krs-1.genesiscloudusercontent.com
+s3.nord-no-krs-1.genesiscloudusercontent.com
+
 // Gentlent, Inc. : https://www.gentlent.com
 // Submitted by Tom Klein <tom@gentlent.com>
 gentapps.com
